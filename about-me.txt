@@ -1,0 +1,3 @@
+Mənim adım Nihatdır və Git ilə GitHub-dan istifadə etməyi öyrənirəm.
+Yeni texnologiyaları praktiki tapşırıqlarla öyrənməyi sevirəm.
+Bu repozitoriya mənim əsas Git iş axını üzrə məşqimdir.
